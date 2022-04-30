@@ -1,2 +1,2 @@
-# mimika
-mimikamimikamimika
+# Mimika
+mimiPIKA
